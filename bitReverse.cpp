@@ -1,4 +1,5 @@
 #include <iostream>
+ 
 int main() {
     std::cout.sync_with_stdio(0);
     unsigned n;
